@@ -160,7 +160,7 @@ export function SideBar(props: { className?: string }) {
         </div>
         <div className={styles["sidebar-sub-title"]}>
           {/* Build your own AI assistant. */}
-          APIkey额度被某个家伙造完了，想用新站重新找我要，或者用自己的apikey也行
+          APIkey额度不知道被哪个家伙造完了，想用新站重新找我要，或者用自己的apikey也行
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
